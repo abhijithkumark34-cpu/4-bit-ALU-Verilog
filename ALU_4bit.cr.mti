@@ -1,0 +1,15 @@
+{C:/Users/abhij_rc3dipb/OneDrive/Pictures/Camera Roll/flame_sensor/model_slim/alu.v} {1 {vlog -work work -stats=none {C:/Users/abhij_rc3dipb/OneDrive/Pictures/Camera Roll/flame_sensor/model_slim/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu4
+
+Top level modules:
+	alu4
+
+} {} {}} {C:/Users/abhij_rc3dipb/OneDrive/Pictures/Camera Roll/flame_sensor/model_slim/alu_tb.v} {1 {vlog -work work -stats=none {C:/Users/abhij_rc3dipb/OneDrive/Pictures/Camera Roll/flame_sensor/model_slim/alu_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu4_tb
+
+Top level modules:
+	alu4_tb
+
+} {} {}}
